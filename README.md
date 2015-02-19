@@ -1,5 +1,6 @@
 # sleeppanda
 Website for SleepPanda CPAP Business
 
-[English](sleeppanda.com)
-[Chiense](sleeppanda.ca)
+[English](http://www.sleeppanda.com)
+
+[Chinese](http://www.sleeppanda.ca)
