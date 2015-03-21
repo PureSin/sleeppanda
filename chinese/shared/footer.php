@@ -11,7 +11,7 @@
             <td></td>
         </tr>
         <tr height="20">
-            <td align="center" style="width: 100%;"><font color="white"><a href="home.html" class="bnav">首页</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="sleeppanda_cpap.html" class="bnav">公司介绍</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="shuimianzhishi.html" class="bnav">睡眠知识</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="Services.html" class="bnav">服务支持</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="jiankang.html" class="bnav">健康博客</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="zhiliaoxuanze.html" class="bnav">治疗选择</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="cpapproducts.html" class="bnav">CPAP产品</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="Contact.html" class="bnav">联系我们</a> </font></td>
+            <td align="center" style="width: 100%;"><font color="white"><a href="index.html" class="bnav">首页</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="sleeppanda_cpap.html" class="bnav">公司介绍</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="shuimianzhishi.html" class="bnav">睡眠知识</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="Services.html" class="bnav">服务支持</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="jiankang.html" class="bnav">健康博客</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="zhiliaoxuanze.html" class="bnav">治疗选择</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="cpapproducts.html" class="bnav">CPAP产品</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="Contact.html" class="bnav">联系我们</a> </font></td>
         </tr>
         <tr height="5">
             <td></td>

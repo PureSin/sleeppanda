@@ -1,7 +1,7 @@
 date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
 18:22:06	408/408	---M--	200	added ('OK')	text/plain	etag:%223aebeaf-198-510046998c7df%22	http://cpap.sleeppanda.com/robots.txt		(from )
 18:22:06	29269/29269	---M--	200	added ('OK')	text/html	date:Thu,%2026%20Feb%202015%2023:22:02%20GMT	http://cpap.sleeppanda.com/	/Users/kelvinma/websites/sleeppanda/cpap.sleeppanda.com/index.html	(from )
-18:22:07	29269/29269	---M--	200	added ('OK')	text/html	date:Thu,%2026%20Feb%202015%2023:22:03%20GMT	http://cpap.sleeppanda.com/home.html	/Users/kelvinma/websites/sleeppanda/cpap.sleeppanda.com/home.html	(from http://cpap.sleeppanda.com/)
+18:22:07	29269/29269	---M--	200	added ('OK')	text/html	date:Thu,%2026%20Feb%202015%2023:22:03%20GMT	http://cpap.sleeppanda.com/index.html	/Users/kelvinma/websites/sleeppanda/cpap.sleeppanda.com/index.html	(from http://cpap.sleeppanda.com/)
 18:22:08	551/551	---M--	200	added ('OK')	text/css	etag:%223aebeb7-227-5100469923405%22	http://cpap.sleeppanda.com/layoutcontainer.css?1246077979	/Users/kelvinma/websites/sleeppanda/cpap.sleeppanda.com/layoutcontainerbd1a.css	(from http://cpap.sleeppanda.com/)
 18:22:08	5933/5933	---M--	200	added ('OK')	text/css	etag:%223aebeb8-172d-5100469927a65%22	http://cpap.sleeppanda.com/theme.css?1246077979	/Users/kelvinma/websites/sleeppanda/cpap.sleeppanda.com/themebd1a.css	(from http://cpap.sleeppanda.com/)
 18:22:08	2111/2111	---M--	200	added ('OK')	text/css	etag:%223aebeb9-83f-510046992c8a7%22	http://cpap.sleeppanda.com/color_1.css?1246077979	/Users/kelvinma/websites/sleeppanda/cpap.sleeppanda.com/color_1bd1a.css	(from http://cpap.sleeppanda.com/)

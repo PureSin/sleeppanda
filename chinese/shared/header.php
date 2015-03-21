@@ -23,7 +23,7 @@
             <td align="center" colspan="15"></td>
         </tr>
         <tr height="28">
-            <td align="center" style="width: 120px; background-image: url(http://cpap.sleeppanda.com/images/f4fb7ab77303333ba3041f738697808c.jpg); background-repeat: repeat;"><a href="home.html" class="topa" target="_self">&#39318;&#39029; </a></td>
+            <td align="center" style="width: 120px; background-image: url(http://cpap.sleeppanda.com/images/f4fb7ab77303333ba3041f738697808c.jpg); background-repeat: repeat;"><a href="index.html" class="topa" target="_self">&#39318;&#39029; </a></td>
             <td style="background-color: #ffffff;" widht="1"></td>
             <td align="center" style="width: 120px; background-image: url(http://cpap.sleeppanda.com/images/f4fb7ab77303333ba3041f738697808c.jpg); background-repeat: repeat;"><a href="sleeppanda_cpap.html" class="topa" target="_self">&#20844;&#21496;&#20171;&#32461;</a> </td>
             <td style="background-color: #ffffff;" widht="1"></td>

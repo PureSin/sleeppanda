@@ -1,5 +1,5 @@
 <ul id="Nav1" class="nav">
-<li class="active-nav sf_first_nav_item"><a href="home.html" target="_self" onclick="">主页</a></li>
+<li class="active-nav sf_first_nav_item"><a href="index.html" target="_self" onclick="">主页</a></li>
 <li class=""><a href="sleeppanda_cpap.html" target="_self" onclick="">公司介绍</a></li>
 <li class=""><a href="shuimianzhishi.html" target="_self" onclick="">睡眠知识</a>
 <ul class="subnav">
