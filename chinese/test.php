@@ -12,8 +12,8 @@
 <meta name="title" content="呼吸机使用常见问题"/>
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="changjianwenti.html"/>
-<meta property="og:image" content="http://cpap.sleeppanda.com/images/e6ab1bd433141dc7196e897874bc52fb_6hzf.jpg"/>
-<meta property="og:image" content="http://cpap.sleeppanda.com/images/TemplateThumbnail.jpg"/>
+<meta property="og:image" content="images/e6ab1bd433141dc7196e897874bc52fb_6hzf.jpg"/>
+<meta property="og:image" content="images/TemplateThumbnail.jpg"/>
 <meta property="og:site_name" content="cpap.sleeppanda"/>
 <meta property="og:description" content="Check out http://cpap.sleeppanda.com!  常见问题"/>
 <meta http-equiv='Content-Type' content='text/html;charset=utf-8' />
@@ -22,7 +22,7 @@
 <style type="text/css">
 body { margin:0; padding:0; }
 </style>
-<script type="text/javascript" src="http://cpap.sleeppanda.com/scripts/imageSwap.js?1246077979"></script><script type="text/javascript">    MM_preloadImages('http://cpap.sleeppanda.com/images/e6ab1bd433141dc7196e897874bc52fb_6hzf.jpg');
+<script type="text/javascript" src="http://cpap.sleeppanda.com/scripts/imageSwap.js?1246077979"></script><script type="text/javascript">    MM_preloadImages('images/e6ab1bd433141dc7196e897874bc52fb_6hzf.jpg');
 
 </script>
 

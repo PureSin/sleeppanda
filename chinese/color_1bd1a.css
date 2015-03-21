@@ -4,27 +4,27 @@
  * @package sftheme
  * @site app1
  */
- 
+
 /* main */
 
 
 a:link {
-	color: #546030;	
-	text-decoration: underline;	
+	color: #546030;
+	text-decoration: underline;
 }
 
 a:visited {
-	color: #546030;	
-	text-decoration: underline;		
+	color: #546030;
+	text-decoration: underline;
 }
 
 a:hover {
-	color: #546030;	
+	color: #546030;
 	text-decoration: none;
 }
-	
+
 .sf_wrapper {
-	background-image: url(http://cpap.sleeppanda.com/images/796_main-bkg-tile_1.gif);
+	background-image: url(images/796_main-bkg-tile_1.gif);
 	background-repeat: repeat-y;
 	background-color: #ffffff;
 }
@@ -34,18 +34,18 @@ a:hover {
 }
 
 .sf_region5 {
-	background-image: url(http://cpap.sleeppanda.com/images/796_pagetitle_1.jpg);
+	background-image: url(images/796_pagetitle_1.jpg);
 	background-repeat: no-repeat;
 	background-color: #ECEADD;
 }
 
 .sf_pagetitle {
-	color: #725624;	
+	color: #725624;
 }
 
-.sf_footer {	
-	background-image: url(http://cpap.sleeppanda.com/images/796_footer_1.gif);
-	background-repeat: repeat-y;	
+.sf_footer {
+	background-image: url(images/796_footer_1.gif);
+	background-repeat: repeat-y;
 	color: #FAF8EC;
 }
 
@@ -58,23 +58,23 @@ a:hover {
 }
 
 .sf_footer a:hover {
-	color: #FAF8EC;	
+	color: #FAF8EC;
 }
 
-/* navigation */ 
+/* navigation */
 
-.sf_navigation ul li a {	
-	background-image:url(http://cpap.sleeppanda.com/images/796_navbkg_1.gif);
+.sf_navigation ul li a {
+	background-image:url(images/796_navbkg_1.gif);
 	background-repeat: repeat-y;
 	color: #FAF8EC;
 }
 
-.sf_navigation ul li a:visited {	
+.sf_navigation ul li a:visited {
 	color: #FAF8EC;
 }
 
 .sf_navigation ul li a:hover{
-	background-image:url(http://cpap.sleeppanda.com/images/796_navbkg-ovr_1.gif);
+	background-image:url(images/796_navbkg-ovr_1.gif);
 	background-repeat: repeat-y;
 	color: #FAF8EC;
 }
@@ -113,11 +113,11 @@ a:hover {
  color:#333;
 }
 .Data_Central_color3 a,
-.Data_Central_color3 a:visited { 
+.Data_Central_color3 a:visited {
  color:#333;
  text-decoration:underline;
 }
-.Data_Central_color3 a:hover { 
+.Data_Central_color3 a:hover {
  color:#333;
  text-decoration:none;
 }

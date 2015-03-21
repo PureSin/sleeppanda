@@ -22,7 +22,7 @@ body {
 	margin: auto;
 	font-family: Arial, Helvetica, FreeSans, sans-serif;
 	font-size: 15px;
-	background-image: url(http://cpap.sleeppanda.com/images/796_bkg-tile.gif);
+	background-image: url(images/796_bkg-tile.gif);
 	background-repeat: repeat;
 	color: #4a310c;
 	background-color: #bbaa89;
@@ -68,7 +68,7 @@ body {
 	font-weight: normal;
 	font-variant: normal;
 	padding: 25px 15px;
-	background-image: url(http://cpap.sleeppanda.com/images/796_header.jpg);
+	background-image: url(images/796_header.jpg);
 	background-repeat: repeat-y;
 	background-position: right;
 	background-color: #ffffff;
@@ -90,7 +90,7 @@ body {
 	display:inline;
 	width:780px;
 	height: 300px;
-	background-image: url(http://cpap.sleeppanda.com/images/796_main.jpg);
+	background-image: url(images/796_main.jpg);
 	background-repeat: no-repeat;
 	background-position: left top;
 }
