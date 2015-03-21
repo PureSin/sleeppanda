@@ -1,0 +1,404 @@
+/**
+ * @file
+ * @project 796
+ * @package sftheme
+ * @site app1
+ */
+ 
+/* typography */
+ 
+h1, h2, h3, h4, h5, h6 {font-weight:normal;}
+h1 {font-size:1.8em;margin:10px 0;}
+h2 {font-size:1.5em;margin:10px 0;}
+h3 {font-size:1.3em;margin:10px 0;}
+h4 {font-size:1.1em;margin:10px 0;}
+h5 {font-size:1em;font-weight:normal;margin:10px 0;}
+h6 {font-size:1em;font-weight:normal;}
+p {margin: 10px 0;}
+
+/* main */
+
+body {
+	margin: auto;
+	font-family: Arial, Helvetica, FreeSans, sans-serif;
+	font-size: 15px;
+	background-image: url(http://cpap.sleeppanda.com/images/796_bkg-tile.gif);
+	background-repeat: repeat;
+	color: #4a310c;
+	background-color: #bbaa89;	
+}
+
+.sf_outer_wrapper {
+	width: 980px;
+    margin: 20px auto;	
+}
+
+.sf_wrapper {	
+	width: 980px;	
+	height: auto;
+}
+
+.sf_wrapper:after {	
+	content:".";
+	display:block;
+	clear:both;
+	visibility:hidden;
+	height:0;  
+}
+
+/* header */
+
+.sf_header_wrapper {
+	width: 980px;		
+}
+
+.sf_header_wrapper:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	clear:both;
+	height:0;
+}
+
+.sf_main_header {
+	text-align: left;	
+	width: 950px;
+	font-family: Georgia, "Nimbus Roman No9 L", serif;
+	font-size: 40px;
+	font-weight: normal;
+	font-variant: normal;
+	padding: 25px 15px;	
+	background-image: url(http://cpap.sleeppanda.com/images/796_header.jpg);
+	background-repeat: repeat-y;
+	background-position: right;
+	background-color: #ffffff;
+	min-height:50px;
+	height: auto !important;
+	height: 50px;
+}
+
+.sf_main_header:after {
+	content:".";
+	display:block;
+	visibility:hidden;
+	clear:both;
+	height:0;
+}
+
+.sf_extra4 {
+	float:right;
+	display:inline;
+	width:780px;
+	height: 300px;
+	background-image: url(http://cpap.sleeppanda.com/images/796_main.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+/* page title */
+
+.sf_region5 {	
+	padding: 7px 30px;
+	text-align: left;
+	font-size: 18px;
+	font-weight: normal;
+	font-family: Georgia, "Nimbus Roman No9 L", serif;	
+	width: 720px;
+	display: block;
+	min-height:21px;
+	height:auto !important;
+	height:21px;
+	float:right;
+}
+
+.sf_pagetitle h1 {	
+	font-size: 18px;
+	font-weight: normal;
+	margin:0px;
+}
+
+/* content */
+
+.sf_content {
+	float: right;	
+	width: 740px;	
+	padding: 20px;
+	line-height: 1.4;
+}
+
+.sf_content:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+
+/* footer */
+ 
+.sf_footer {	   
+    font-family: Arial, Verdana, Helvetica, sans-serif;	
+	clear:both;
+	text-align:right;
+	min-height:15px;
+	height:auto !important;
+	height:15px;
+	padding:10px 30px;
+	font-size:12px;			
+}
+
+.sf_footer p {
+	margin:0px;
+	padding:0px;
+}
+
+.sf_footer a:hover {
+	text-decoration: none;	
+}
+
+.sf_banner {
+	margin: 40px auto 0 auto;
+	text-align: center;
+}
+
+#bannerLink {
+	padding: 10px;
+	margin: 10px;
+}
+
+.btn {
+	cursor:pointer;
+	font-size:12px;
+	font-weight:normal;
+	margin:3px 3px 3px 0;
+	padding:4px;
+	text-transform:uppercase;
+	border:1px solid #6e543e;
+	font-family:Arial, Helvetica, FreeSans, sans-serif;
+	background-color:#8d735d;
+	color: #FAF8EC;
+}
+
+#bannerLink a, 
+#bannerLink a:visited, 
+#bannerLink a:hover{
+	color: #725624;
+}
+
+a:link {
+	color: #725624;
+}
+
+a:visited {
+	color: #725624;	
+}
+
+a:hover {
+	color: #725624;
+	text-decoration: none;	
+}
+
+/* sidebar */
+ 
+ .sf_navigation {	
+	text-transform: uppercase;	
+	font-weight: normal;	
+	margin-bottom:30px;
+	min-height:1%;
+	height:auto !important;
+	height:1%;
+}
+
+.sf_navigation .widget_content div {	
+	margin:0px;
+}
+
+.sf_navigation .Block {
+	border:none !important; 
+	position:static !important; /*Relative causes it to disappear in IE*/
+}
+
+.sf_navigation:after {	
+	content: ".";
+	display:block;
+	visibility:hidden;
+	height:0;
+	clear:both;
+}
+
+.sf_navigation ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	float: left;
+	width: 200px;
+	min-height:1%;
+	height:auto !important;
+	height:1%;
+}
+
+.sf_navigation ul li { 
+	padding: 0 0 1px;
+	margin: 0;
+	float: left;
+	width: 200px;
+	height:auto;
+}
+
+.sf_navigation ul li a {
+	display: block;
+	text-decoration: none;
+	padding:14px 5px;
+	margin: 0;	
+	text-align:center;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.sf_navigation ul li a:hover {
+}
+
+.sf_navigation .subnav { 
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	float: left;
+	width: 200px;
+	position: absolute;
+	left: -999em;
+	margin-left: 200px;
+	margin-top: -44px;
+	z-index:1000;
+}
+
+.sf_navigation .subnav li {
+	padding: 0;
+	margin: 0;
+	float: left;
+	width: 200px;
+}
+
+.sf_navigation .subnav li a {
+	width: 190px;
+	display: block;
+	font-weight: normal;
+	text-decoration: none;	
+	margin: 0;	
+	text-align:center;	
+}
+
+.sf_navigation .subnav li a:hover {
+}
+
+#Nav1 li:hover ul, 
+#Nav1 li.sfhover ul {
+	left: auto;
+}
+
+#Nav1 iframe {
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 0;
+	filter: progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0);
+}
+
+#Nav1 li:hover, #Nav1 li.hover {  
+    position: static;  
+} 
+
+.sf_pod {
+	margin: 30px 0;
+	padding:0 20px;
+	clear:both;
+	line-height: 1.2;
+}
+
+.sf_pod a:link,
+.sf_pod a:visited,
+.sf_pod a:hover {
+	color: #C8B897;
+}
+
+/* widgets */
+ 
+.widgetset_app2_0, .widgetset_app3_0 {
+	width:180px;
+	margin: 0 10px;
+	overflow:hidden;
+}
+
+.sf_region4 {	
+	float: left;	
+	width: 200px;
+	color: #C8B897;
+}
+
+.main_nav .widget_header {
+	display:none;
+}
+
+.sf_region4 ul,
+.sf_region4 ol {	
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+
+.widget_header {
+	font-size:15px;
+	font-weight:normal;
+	margin:0;
+	padding:4px 10px 4px;
+	min-height:15px;
+	height:auto !important;
+	height:15px;
+	text-transform: uppercase;
+	border-bottom: 1px solid;
+}
+
+.widget_header a:link,
+.widget_header a:visited {
+	text-decoration:none;
+	color: #C8B897;
+}
+
+.widgetset a:link,
+.widgetset a:visited,
+.widgetset a:hover {
+	color: #C8B897;
+}
+
+.widget_header a:hover {
+	text-decoration:underline;
+}
+
+.widget_content {
+	margin:0;
+	padding:5px 10px 20px;
+}
+
+.widget_content div {
+	margin:4px 0px;
+	padding:0;
+}
+
+.widget_content label {
+	margin:0;
+	padding:0;
+	display:block;
+}
+
+.widget_content form {
+	margin:0;
+	padding:0;
+}
+
+.widget_content select {
+	width:180px;
+}
+
+.main_nav .widget_content {
+	margin:0;
+	padding:0;
+}
